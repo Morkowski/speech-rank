@@ -21,7 +21,7 @@ hs_err_pid*
 
 ### Gradle ###
 .gradle/
-
+.yarn-error
 
 # added by GitSavvy
 /build/
